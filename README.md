@@ -1,2 +1,3 @@
 # Social-Media-Mining
 R
+Twitter text mining is getting lots of attention in the recent years. We will use the tidy package to analysis text. One way to analyze the sentiment of a text is to consider the text as a combination of its individual words and the sentiment content of the whole text as the sum of the sentiment content of the individual words. We will analysis the Trump and Clinton’s Tweets during 2016 presidential campaign. The second part we will give the words frequencies information and plot comparing raw word frequencies over the whole Twitter histories and find which words are more or less likely to come from each person’s account using the log odds ratio. 
